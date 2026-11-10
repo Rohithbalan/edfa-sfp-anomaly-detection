@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+# raw telemetry and everything derived from it is confidential: never commit
+outputs/
+*_anomalies_f.csv
+Sensor_mapping_edfa_sfp.json
+ML Test Data/
+data/

@@ -1,0 +1,11 @@
+pandas==2.2.3
+numpy==1.26.4
+pyarrow==17.0.0
+matplotlib==3.9.2
+scikit-learn==1.5.2
+# only needed to rebuild/execute the .ipynb from run.py
+jupytext==1.16.4
+nbconvert==7.16.4
+mistune==3.0.2   # nbconvert 7.16.4 breaks with mistune >= 3.1
+nbformat==5.10.4
+ipykernel==6.29.5
